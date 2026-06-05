@@ -62,6 +62,22 @@
       <sub>Teammate · Back-end Dev</sub>
     </td>
   </tr>
+  <td align="center">
+      <a href="https://github.com/GitHub_ID">
+        <img src="https://github.com/vino-ys" width="64" style="border-radius:50%"/><br/>
+        <sub><b>@vino-ys</b></sub>
+      </a><br/>
+      <sub>Teammate · Full-stack Dev</sub>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="https://github.com/GitHub_ID">
+        <img src="https://github.com/ggumnamu1325-git" width="64" style="border-radius:50%"/><br/>
+        <sub><b>@ggumnamu1325-git</b></sub>
+      </a><br/>
+      <sub>Teammate · Back-end Dev</sub>
+    </td>
+  </tr>
 </table>
 
 ---
