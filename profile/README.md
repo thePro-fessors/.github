@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,nextjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,nextjs&perline=7](https://skillicons.dev/icons?i=html,css,js,py,c,mysql,docker,git&perline=8" />
 </p>
 
 ---
@@ -52,6 +52,14 @@
         <sub><b>@init0429</b></sub>
       </a><br/>
       <sub>Team sub Leader · Full-Stack Dev</sub>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="https://github.com/GitHub_ID">
+        <img src="https://github.com/juh103.png" width="64" style="border-radius:50%"/><br/>
+        <sub><b>@juh103</b></sub>
+      </a><br/>
+      <sub>Team sub Leader · Back-end Dev</sub>
     </td>
   </tr>
 </table>
