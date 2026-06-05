@@ -59,7 +59,7 @@
         <img src="https://github.com/juh103.png" width="64" style="border-radius:50%"/><br/>
         <sub><b>@juh103</b></sub>
       </a><br/>
-      <sub>Team sub Leader · Back-end Dev</sub>
+      <sub>Teammate · Back-end Dev</sub>
     </td>
   </tr>
 </table>
