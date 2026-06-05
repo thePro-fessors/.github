@@ -1,27 +1,67 @@
-# 🎓 Welcome to The Pro-Fessors Lab!
+<div align="center">
 
-> "**Join First, Regret Last.**" 
-> (일단 참가해라, 후회는 나중에 하라.)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=534AB7,9F7AEA&height=140&section=header&text=The%20Pro-Fessors&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-안녕하세요! **The Pro-Fessors**는 인문학적 상상력과 프로페셔널한 기술력을 결합하여 흥미로운 프로젝트를 만들어가는 개발팀입니다. '전문과'에서 시작해 '전문가'가 되는 그날까지 달립니다.
+<br/>
 
----
+> *"Join First, Regret Last."*
+> <br/>
+> 일단 참가해라, 후회는 나중에 하라.
 
-## 📚 Our Syllabus (기술 스택)
-저희 연구실에서 주로 다루는 개발 도구와 언어입니다.
+<br/>
 
-* **Languages:** JavaScript, Python (And English Literature ✍🏻)
-* **Frameworks:** React, Next.js, Node.js
-* **Database:** PostgreSQL, MongoDB
+안녕하세요! **The Pro-Fessors**는 인문학적 상상력과 프로페셔널한 기술력을 결합하여<br/>
+흥미로운 프로젝트를 만들어가는 개발팀입니다.<br/>
+전문과에서 시작해 전문가가 되는 그날까지 달립니다.
 
----
-
-## :microscope: Current Research (주요 프로젝트)
-* :bulb: **Project 1:** [프로젝트 이름] - 프로젝트에 대한 한 줄 설명
-* :writing_hand: **Project 2:** [프로젝트 이름] - 프로젝트에 대한 한 줄 설명
+</div>
 
 ---
 
-## :busts_in_silhouette: Members
-* [@GitHub_ID](링크) - Team Leader / Frontend Dev
-* [@GitHub_ID](링크) - Backend Dev / Devops
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,nextjs&perline=7" />
+</p>
+
+---
+
+## 🔬 Current Research
+
+| Project | Description |
+|--------|-------------|
+| 🔵 **Project 1** | 프로젝트에 대한 한 줄 설명을 여기에 입력하세요 |
+| 🔵 **Project 2** | 프로젝트에 대한 한 줄 설명을 여기에 입력하세요 |
+
+---
+
+## 👥 Members
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Satellite4245">
+        <img src="https://github.com/Satellite4245.png" width="64" style="border-radius:50%"/><br/>
+        <sub><b>@Satellite4245</b></sub>
+      </a><br/>
+      <sub>Team Leader · Embeded Dev</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GitHub_ID">
+        <img src="https://github.com/init0429.png" width="64" style="border-radius:50%"/><br/>
+        <sub><b>@init0429</b></sub>
+      </a><br/>
+      <sub>Team sub Leader · Full-Stack Dev</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<sub>Humanities meets Technology</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=534AB7,9F7AEA&height=60&section=footer&animation=fadeIn" />
+
+</div>
