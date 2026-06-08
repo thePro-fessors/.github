@@ -30,7 +30,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔵 **Project 1** | 프로젝트에 대한 한 줄 설명을 여기에 입력하세요 |
+| 🔵 **Github Viewer** | Enhanced Github Viewer & Explorer |
 | 🔵 **Project 2** | 프로젝트에 대한 한 줄 설명을 여기에 입력하세요 |
 
 ---
