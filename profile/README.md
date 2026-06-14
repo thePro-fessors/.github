@@ -51,7 +51,7 @@
         <img src="https://github.com/init0429.png" width="64" style="border-radius: 50%;"/><br/>
         <sub><b>@init0429</b></sub>
       </a><br/>
-      <sub>Team sub Leader · Full-Stack Dev</sub>
+      <sub>Teammate · Full-Stack Dev</sub>
     </td>
   <td align="center">
       <a href="https://github.com/juh103">
