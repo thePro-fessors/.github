@@ -53,24 +53,30 @@
       </a><br/>
       <sub>Teammate · Full-Stack Dev</sub>
     </td>
-  <td align="center">
+    <td align="center">
       <a href="https://github.com/juh103">
         <img src="https://github.com/juh103.png" width="64" style="border-radius: 50%;"/><br/>
         <sub><b>@juh103</b></sub>
       </a><br/>
       <sub>Teammate · Back-end Dev</sub>
     </td>
-  <td align="center">
+    <td align="center">
       <a href="https://github.com/vino-ys">
         <img src="https://github.com/vino-ys.png" width="64" style="border-radius: 50%;"/><br/>
         <sub><b>@vino-ys</b></sub>
       </a><br/>
       <sub>Teammate · Full-stack Dev</sub>
     </td>
-  
-  <td align="center">
+    <td align="center">
       <a href="https://github.com/ggumnamu1325-git">
         <img src="https://github.com/ggumnamu1325-git.png" width="64" style="border-radius: 50%;"/><br/>
+        <sub><b>@ggumnamu1325-git</b></sub>
+      </a><br/>
+      <sub>Teammate · Back-end Dev</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gunobo">
+        <img src="https://github.com/gunobo.png" width="64" style="border-radius: 50%;"/><br/>
         <sub><b>@ggumnamu1325-git</b></sub>
       </a><br/>
       <sub>Teammate · Back-end Dev</sub>
