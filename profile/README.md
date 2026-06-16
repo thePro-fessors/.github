@@ -77,9 +77,9 @@
     <td align="center">
       <a href="https://github.com/gunobo">
         <img src="https://github.com/gunobo.png" width="64" style="border-radius: 50%;"/><br/>
-        <sub><b>@ggumnamu1325-git</b></sub>
+        <sub><b>@gunobo</b></sub>
       </a><br/>
-      <sub>Teammate · Back-end Dev</sub>
+      <sub>Teammate · Full-stack Dev</sub>
     </td>
   </tr>
 </table>
