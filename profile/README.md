@@ -31,7 +31,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔵 **Github Viewer** | Enhanced Github Viewer & Explorer |
-| 🔵 **Project 2** | 프로젝트에 대한 한 줄 설명을 여기에 입력하세요 |
+| 🔵 **pi-menu-panel** | Mac용 단축키 위젯 |
 
 ---
 
